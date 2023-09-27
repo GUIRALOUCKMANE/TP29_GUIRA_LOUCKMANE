@@ -1,0 +1,16 @@
+a{
+    width: 900px;
+    height: 500px;
+    padding-left: 100px;
+}
+.c{
+    text-align: center;
+    font-size: x-large;
+    
+}
+
+.r{
+    display: flex;
+    justify-content: space-around;
+    
+}
